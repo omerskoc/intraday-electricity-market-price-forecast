@@ -28,6 +28,6 @@ For a detailed explanation of the project, including the context, methodology, a
 Contributions, issues, and feature requests are welcome.
 
 ## Contact
-If you have any questions or want to say 'hi', shoot me an email at [koc.o@northeastern.edu] or reach out on [[LinkedIn/Twitter/GitHub](https://www.linkedin.com/in/omerskoc/)https://www.linkedin.com/in/omerskoc/].
+If you have any questions or want to say 'hi', shoot me an email at [koc.o@northeastern.edu] or reach out on [[LinkedIn](https://www.linkedin.com/in/omerskoc/)].
 
 Thank you for visiting my project!
